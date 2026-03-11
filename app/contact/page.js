@@ -45,7 +45,7 @@ export default function ContactPage() {
                     <Phone className="h-6 w-6 text-green-600" />
                   </div>
                   <h3 className="font-semibold text-gray-800">Phone / WhatsApp</h3>
-                  <p className="text-sm text-gray-600">+91 XXXXXXXX</p>
+                  <p className="text-sm text-gray-600">+91 9579547390</p>
                 </CardContent>
               </Card>
 
