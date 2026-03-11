@@ -39,15 +39,7 @@ export default function ContactPage() {
                 </CardContent>
               </Card>
 
-              <Card className="hover:shadow-md transition-shadow">
-                <CardContent className="p-6 flex flex-col items-center text-center space-y-2">
-                  <div className="bg-green-100 p-3 rounded-full">
-                    <Phone className="h-6 w-6 text-green-600" />
-                  </div>
-                  <h3 className="font-semibold text-gray-800">Phone / WhatsApp</h3>
-                  <p className="text-sm text-gray-600">+91 XXXXXXXX</p>
-                </CardContent>
-              </Card>
+      
 
               <Card className="hover:shadow-md transition-shadow">
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-2">
